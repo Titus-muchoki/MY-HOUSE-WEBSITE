@@ -1,0 +1,38 @@
+h1{
+    color: #ff0000;
+    text-align: center;
+}
+/*single-line comment */
+p{
+    font-family: 'Courier New', Courier, monospace;
+    color: #000fff;
+}
+ul{
+    line-height: 24px;
+    text-align: center;
+}
+form{
+    text-align: end;
+}
+button{
+    color: red;
+}
+#tito{
+    color: #00ff0f;
+}
+#image{
+    float: left;
+    height: 100px;
+}
+.ul{
+    color: salmon;
+}
+.table{
+    text-align: left;
+    float: center;
+    border: solid;
+    word-spacing: 10px;s
+    border-collapse: collapse;
+    background-color: #ff00f0;
+    padding : 70px;
+}
